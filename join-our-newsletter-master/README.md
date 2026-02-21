@@ -18,8 +18,8 @@ Es una pagina web para suscribirse a un Newsletter, se utilizo html para la base
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Repositorio en GitHub: https://github.com/DulceMariaMartinezVazquez/Ejercicio1_Newsletter
+Deploy: https://dulcemariamartinezvazquez.github.io/Ejercicio1_Newsletter/
 ---
 
 ## 📝 Reflexión
